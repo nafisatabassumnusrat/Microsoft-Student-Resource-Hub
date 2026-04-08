@@ -11,9 +11,9 @@
 ---
 
 
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO?style=social)
-![License](https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPO)
+![GitHub stars](https://img.shields.io/github/stars/github.com/nafisatabassumnusrat/nafisatabassumnusrat/Microsoft-Student-Resource-Hub/edit/main/README.md?style=social)
+![GitHub forks](https://img.shields.io/github/forks/github.com/nafisatabassumnusrat/nafisatabassumnusrat/Microsoft-Student-Resource-Hub/edit/main/README.md?style=social)
+![License](https://img.shields.io/github/license/github.com/nafisatabassumnusrat/nafisatabassumnusrat/Microsoft-Student-Resource-Hub/edit/main/README.md)
 
 > 🎓 A curated collection of **Microsoft resources, AI learning paths, startup tools, and events** — specially for students & developers.
 
@@ -21,10 +21,10 @@
 
 ## 🌟 Why This Repo?
 
-✔ All Microsoft resources in one place
-✔ AI, Copilot, Azure focused learning
-✔ Beginner → Advanced roadmap
-✔ updated content
+✔ All Microsoft resources in one place <br>
+✔ AI, Copilot, Azure focused learning <br>
+✔ Beginner → Advanced roadmap <br>
+✔ updated content <br>
 
 ---
 
