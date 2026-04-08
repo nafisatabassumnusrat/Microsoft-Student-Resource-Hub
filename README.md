@@ -107,10 +107,10 @@
 
 ## 💡 Pro Tips
 
-✨ Start with **Generative AI fundamentals**
-✨ Then go to **Copilot Studio**
-✨ Explore **Azure + Startup tools**
-✨ Join live events for networking
+✨ Start with **Generative AI fundamentals**  <br>
+✨ Then go to **Copilot Studio** <br>
+✨ Explore **Azure + Startup tools** <br>
+✨ Join live events for networking <br>
 
 ---
 
@@ -123,7 +123,7 @@
 
 ## 🤝 Contributing
 
-Pull requests are welcome!
+Pull requests are welcome! <br>
 Add more valuable resources 🔥
 
 ---
